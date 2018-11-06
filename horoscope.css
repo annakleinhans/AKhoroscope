@@ -1,0 +1,58 @@
+body {
+    background-color: powderblue;
+
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    font-family: "Courier New", serif;
+    position:relative
+
+}
+
+h2 {
+    color: black;
+    text-align: center;
+    font-family: "Courier New", serif;
+}
+
+#zodiac {
+    color: black;
+    font-family: "Courier New", serif;
+    font-size: medium;
+    text-align: center;
+}
+
+#message {
+    color: black;
+    font-family: "Courier New", serif;
+    font-size: medium;
+    text-align: center;
+}
+
+#month {
+    position:relative;
+    font-family: "Courier New", serif;
+}
+
+#day {
+    position: relative;
+    font-family: "Courier New", serif;
+
+}
+
+#Name {
+    position:relative;
+}
+
+button {
+    width: 100px;
+    color: black;
+    font-family: "Courier New", serif;
+}
+
+#images {
+    position: relative;
+
+}
